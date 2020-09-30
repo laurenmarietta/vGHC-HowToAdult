@@ -1,6 +1,6 @@
 # How To Adult : Professional, Social, & Financial Success in Post-Graduate Life
 <div align="center">
-Virtual Grace Hopper Mentoring Circle <br>
+Mentoring Circle  |  Virtual Grace Hopper Celebration<br>
 October 2, 2020  |  1:45 - 2:45 PM EDT <br>
 <img src="logo.jpg" width="200">
 </div>
