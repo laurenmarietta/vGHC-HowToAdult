@@ -7,7 +7,7 @@ October 2, 2020  |  1:45 - 2:45 PM EDT <br>
 
 ### 💡 Get Our Tips: [PDF Handout](https://drive.google.com/file/d/16RXBsbmR3y8aVe6NM1FUxbjpdlH6s24A/view?usp=sharing)
 
-### 👩🏼👩🏽‍🦱 Learn About Us:
+### 👯‍ Learn About Us:
 <div align="center">
 <img src="kira_headshot.jpeg" width="200"><br>
 <b>Kira Tebbe</b>
