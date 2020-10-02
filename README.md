@@ -15,7 +15,7 @@ October 2, 2020  |  1:45 - 2:45 PM EDT <br>
 
 Kira is an MBA Candidate at The University of Chicago Booth School of Business. After graduating college in 2017 with degrees in Applied Math and Sociology, Kira worked as a Data Scientist at IBM and Education First in Boston. In her professional work, Kira uses analysis to discover trends in large amounts of data and explain them using thoughtful visualizations, having published her analysis and visualizations in the peer-reviewed journal ​Drug and Alcohol Dependence.​ She is passionate about supporting other women in STEM, serving as the Co-organizer of the ​Women in Machine Learning and Data Science (WiMLDS) group in Boston, being a guest speaker at local ​Girls Who Code clubs, and being the inaugural speaker at Northeastern’s ​She</Speaks>​, a speaking series that highlights young women in STEM.
 
-🌐 Learn more at her [personal website](https://kiras-website.herokuapp.com/index.html)
+🌐 Learn more at her [personal website](www.kiratebbe.com)
 
 🔗 Connect with her on [LinkedIn](https://www.linkedin.com/in/kiratebbe/)
 
