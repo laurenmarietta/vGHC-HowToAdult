@@ -5,7 +5,7 @@ October 2, 2020  |  1:45 - 2:45 PM EDT <br>
 <img src="logo.jpg" width="200">
 </div>
 
-### 💡 Get Our Tips: [PDF Handout](https://drive.google.com/file/d/16RXBsbmR3y8aVe6NM1FUxbjpdlH6s24A/view?usp=sharing)
+### 💡 Get Our Tips: [PDF Handout](HowToAdult_vGHC_Handout.pdf)
 
 ### 👯‍ Learn About Us:
 <div align="center">
